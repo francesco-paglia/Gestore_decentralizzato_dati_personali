@@ -8,4 +8,6 @@ La tesi è composta da cinque capitoli:</br>
 **4 - Implementazione:** implementazione dell'ecosistema: sono stati sviluppati i moduli Rust che compongono la dApp di sistema e le applicazioni decentralizzate, utili per interagire con i canali Streams e gli IOTA Smart Contracts.</br>
 **5 - Valutazione sperimentale:** valutazione per verificare sperimentalmente le proprietà e le performance dell'ecosistema.</br>
 
+Implementazione dell'architettura disponibile al seguente [link](https://github.com/orgs/Tesi-Magistrale-FP/repositories).
+
 **Tesi di laurea magistrale** in **Ingegneria informatica**, ambito **Blockchain and cryptocurrencies**, presso **Alma Mater Studiorum Università di Bologna (Unibo)**, anno accademico **2022/2023**.
